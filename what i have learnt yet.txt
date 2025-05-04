@@ -1,0 +1,11 @@
+1] i am learning next js from documentation 
+A1] i have learned the in chapter 1 that how to install neaxt js
+2] in 2nd chapter i have learned the css styling 
+2A] first topic is in this chapeter styling file means how we can create a file and make them and use that file to all other files example is home.module.css file is created with shape name and that i import it in page.tsx file shape dive that class will be like this {styles.shape}
+2B] how we can conditionaly write the classname in this using clsx in the status.tsx;
+3A] fonts i have learned how we can use fonts and how we can use multiple fonts and this is done in ui/fonts.ts and executed in layout.ts and in page.tsx;
+3B] Image optimization 
+4] Nested routing 
+5] Routing in this we learned ;
+5A] Link tag;
+5B] usePathname that is used in to show active links and this used ui/dashboard/nav-links.tsx 
